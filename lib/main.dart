@@ -44,11 +44,11 @@ class MyApp extends StatelessWidget {
               margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
               child: ListTile(
                 leading: Icon(
-                  Icons.phone,
+                  Icons.public,
                   color: Colors.teal,
                 ),
                 title: Text(
-                  '+977 9814139393',
+                  'parajuliamit.com.np',
                   style: TextStyle(
                       fontFamily: 'Source Sans Pro',
                       fontSize: 20.0,
